@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\student\Desktop\lab14-main\lab14-main\Project6\FileName.c(36,3): warning C4013: strcat: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\student\Desktop\lab14-main\lab14-main\Project6\FileName.c(39,3): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+  Project6.vcxproj -> C:\Users\student\Desktop\lab14-main\lab14-main\Project6\x64\Debug\Project6.exe
